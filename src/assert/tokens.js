@@ -1,0 +1,20 @@
+export const tokens = [
+    {
+        tokenSymbol:"TTK1",
+        tokenName:"TTKCoin1",
+        tokeniconurl:"https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+        id:0
+    },
+    {
+        tokenSymbol:"TTK2",
+        tokenName:"TTKCoin2",
+        tokeniconurl:"https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+        id:1
+    },
+    {
+        tokenSymbol:"TTK3",
+        tokenName:"TTKCoin3",
+        tokeniconurl:"https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+        id:2
+    }
+]
